@@ -1,0 +1,1 @@
+print ("learning git and github and this is the first repo")
